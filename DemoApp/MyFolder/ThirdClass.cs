@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoApp.MyFolder
 {
-    class ThirdClass
+    class ThirdClass 
     {
     }
 }
