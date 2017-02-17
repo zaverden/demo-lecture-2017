@@ -13,7 +13,7 @@ namespace DemoApp
         {
             Console.WriteLine("asdasdasd");
             Console.ReadKey();
-            new Class1();
+            new Class1(); 
         }
     }
 }

@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="MyDemoClass.cs" />
     <Compile Include="MyFolder\MySecondClass.cs" />
+    <Compile Include="MyFolder\ThirdClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
